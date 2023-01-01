@@ -119,9 +119,9 @@ func main() {
 		room := fmt.Sprintf("device/%s", id)
 		event := room
 
-		data := echo.Map{
-			"id":   id,
-			"name": "Temp",
+		data := Device{
+			ID:   id,
+			Name: "Temp",
 		}
 
 		send := io.BroadcastToRoom(deviceNamespace, room, event, data)
