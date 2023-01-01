@@ -4,6 +4,7 @@ go 1.19
 
 require (
 	github.com/andybalholm/brotli v1.0.4 // indirect
+	github.com/eclipse/paho.mqtt.golang v1.4.2 // indirect
 	github.com/gofiber/adaptor/v2 v2.1.30 // indirect
 	github.com/gofiber/fiber/v2 v2.40.1 // indirect
 	github.com/gofrs/uuid v4.0.0+incompatible // indirect
@@ -25,6 +26,7 @@ require (
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	golang.org/x/crypto v0.2.0 // indirect
 	golang.org/x/net v0.4.0 // indirect
+	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
 	golang.org/x/sys v0.3.0 // indirect
 	golang.org/x/text v0.5.0 // indirect
 	golang.org/x/time v0.2.0 // indirect

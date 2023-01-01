@@ -17,7 +17,7 @@ http://localhost:3000/
 ### Send data to device/id room
 
 ```
-curl http://localhost:3000/device/payload 
+curl http://localhost:3000/device/publish 
 ```
 
 Output
