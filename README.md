@@ -33,5 +33,5 @@ url: wss://broker.emqx.io:8084/mqtt
 username: emqx_test
 password: emqx_test
 topic: device
-payload: {"id": "1",  "msg": "hello"}
+payload: {"id":"1e4832e7-1ffa-4cf4-b9d9-0b8eff286c52","name":"Temp"}
 ```
